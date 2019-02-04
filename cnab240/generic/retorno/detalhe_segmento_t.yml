@@ -52,7 +52,7 @@ agencia_dv_mais_cedente_dv:
 
 nosso_numero:
   pos: [38, 57]
-  picture: '9(20)'
+  picture: 'X(20)'
 
 codigo_carteira:
   pos: [58, 58]
